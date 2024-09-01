@@ -1,7 +1,7 @@
 # Number Guessing Game 🎲
 ---
 
-[In C script]()
+[In C script](https://github.com/mdriyadkhan585/number-guessing-game)
 
 ![Logo](logo.svg)
 
@@ -32,7 +32,7 @@ Follow these steps to set up and run the game on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mdriyadkhan585/number-guessing-game.git
+   git clone https://github.com/mdriyadkhan585/number-guessing-game_Python.git
    ```
 
 2. **Navigate to the Project Directory**
